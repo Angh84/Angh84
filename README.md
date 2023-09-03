@@ -1,10 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL     32 mins         █████████████████▒░░░░░░░   68.98 %
-Razor   13 mins         ███████░░░░░░░░░░░░░░░░░░   27.82 %
-TSQL    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-C#      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
