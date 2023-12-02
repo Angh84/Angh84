@@ -24,4 +24,4 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
-          IGNORED_LANGUAGES: Binary Gitignore
+          IGNORED_LANGUAGES: Binary Git GITIGNORE
