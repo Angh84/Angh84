@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2023 - To: 11 December 2023
+From: 05 December 2023 - To: 12 December 2023
 
-Total Time: 37 hrs 59 mins
+Total Time: 41 hrs 22 mins
 
-C#               24 hrs 53 mins  >>>>>>>>>>>>>>>>---------   65.49 %
-Binary           4 hrs 21 mins   >>>----------------------   11.47 %
-SQL              3 hrs 51 mins   >>>----------------------   10.15 %
-JavaScript       1 hr 20 mins    >------------------------   03.51 %
-Text             43 mins         -------------------------   01.90 %
+C#               26 hrs          >>>>>>>>>>>>>>>>---------   62.85 %
+SQL              6 hrs 15 mins   >>>>---------------------   15.13 %
+Binary           3 hrs 43 mins   >>-----------------------   09.01 %
+JavaScript       1 hr 34 mins    >------------------------   03.81 %
+Text             51 mins         >------------------------   02.07 %
 ```
 
 <!--END_SECTION:waka-->
