@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-Total Time: 12 hrs
+Total Time: 9 hrs 36 mins
 
-C#               3 hrs 14 mins   >>>>>>>------------------   27.02 %
-Razor            3 hrs 7 mins    >>>>>>>------------------   26.07 %
-Blazor           1 hr 37 mins    >>>----------------------   13.50 %
-SQL              1 hr 15 mins    >>>----------------------   10.48 %
-JSON             1 hr 9 mins     >>-----------------------   09.60 %
+C#               3 hrs 10 mins   >>>>>>>>-----------------   33.11 %
+Razor            1 hr 56 mins    >>>>>--------------------   20.15 %
+SQL              1 hr 15 mins    >>>----------------------   13.11 %
+Blazor           1 hr 6 mins     >>>----------------------   11.52 %
+JSON             1 hr 1 min      >>>----------------------   10.67 %
 ```
 
 <!--END_SECTION:waka-->
