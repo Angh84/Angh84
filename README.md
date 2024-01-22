@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2024 - To: 19 January 2024
+From: 13 January 2024 - To: 20 January 2024
 
-Total Time: 23 hrs 46 mins
+Total Time: 24 hrs 22 mins
 
-SQL                    8 hrs 25 mins   >>>>>>>>>----------------   35.45 %
-C#                     7 hrs 31 mins   >>>>>>>>-----------------   31.64 %
-JavaScript             3 hrs 18 mins   >>>----------------------   13.90 %
-TypeScript             2 hrs           >>-----------------------   08.45 %
-JSON                   41 mins         >------------------------   02.90 %
+SQL                    8 hrs 25 mins   >>>>>>>>>----------------   34.60 %
+C#                     8 hrs 5 mins    >>>>>>>>-----------------   33.20 %
+JavaScript             3 hrs 18 mins   >>>----------------------   13.57 %
+TypeScript             2 hrs           >>-----------------------   08.24 %
+JSON                   41 mins         >------------------------   02.83 %
 ```
 
 <!--END_SECTION:waka-->
