@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 4 * * *'
 
 jobs:
   update-readme:
@@ -15,7 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           SHOW_TITLE: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: ░▒▓█
           STOP_AT_OTHER: true
           SHOW_TIME: true
           SHOW_TOTAL: true
