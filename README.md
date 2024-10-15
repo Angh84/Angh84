@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 13 October 2024
+From: 07 October 2024 - To: 14 October 2024
 
-Total Time: 14 hrs 42 mins
+Total Time: 12 hrs 16 mins
 
-SQL          9 hrs 38 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░   65.51 %
-C#           2 hrs 54 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   19.82 %
-TypeScript   1 hr 25 mins    ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-JavaScript   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+SQL          7 hrs 31 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░   61.30 %
+C#           3 hrs 3 mins    ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   24.90 %
+TypeScript   1 hr 2 mins     ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
