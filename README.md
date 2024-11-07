@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2024 - To: 05 November 2024
+From: 30 October 2024 - To: 06 November 2024
 
-Total Time: 10 hrs 38 mins
+Total Time: 9 hrs 32 mins
 
-C#                4 hrs 11 mins   ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░   39.35 %
-SQL               3 hrs 35 mins   ▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░   33.77 %
-TypeScript        1 hr 12 mins    ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-Razor             34 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-Blazor            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+C#                3 hrs 29 mins   ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   36.61 %
+SQL               3 hrs 15 mins   ▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░   34.12 %
+TypeScript        1 hr 9 mins     ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+Razor             34 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Blazor            17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
