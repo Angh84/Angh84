@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2024 - To: 11 November 2024
+From: 05 November 2024 - To: 12 November 2024
 
-Total Time: 7 hrs 59 mins
+Total Time: 8 hrs 54 mins
 
-SQL               4 hrs 9 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   52.08 %
-C#                2 hrs 47 mins   ▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░   34.98 %
-Razor             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-GitIgnore file    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-XML               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+C#               4 hrs 23 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░   49.30 %
+SQL              4 hrs 16 mins   ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   48.06 %
+TypeScript       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
