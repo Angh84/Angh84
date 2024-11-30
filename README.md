@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2024 - To: 28 November 2024
+From: 22 November 2024 - To: 29 November 2024
 
-Total Time: 21 hrs 58 mins
+Total Time: 25 hrs 13 mins
 
-C#               7 hrs 30 mins   ▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░   34.17 %
-TypeScript       7 hrs 22 mins   ▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░   33.55 %
-SQL              5 hrs 49 mins   ▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░   26.48 %
-JavaScript       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-JSON             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+TypeScript       9 hrs 56 mins   ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░   39.42 %
+C#               8 hrs 1 min     ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   31.84 %
+SQL              5 hrs 42 mins   ▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░░   22.66 %
+JavaScript       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Bash             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
