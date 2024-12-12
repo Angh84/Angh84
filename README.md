@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2024 - To: 10 December 2024
+From: 04 December 2024 - To: 11 December 2024
 
-Total Time: 23 hrs 26 mins
+Total Time: 18 hrs 34 mins
 
-SQL              11 hrs 7 mins   ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   47.46 %
-C#               10 hrs 54 mins  ▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░   46.50 %
-Text             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Sqlproj          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-TypeScript       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+SQL              10 hrs 20 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   55.66 %
+C#               7 hrs 9 mins    ▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░   38.53 %
+Text             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Sqlproj          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+TypeScript       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
