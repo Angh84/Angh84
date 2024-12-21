@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2024 - To: 19 December 2024
+From: 13 December 2024 - To: 20 December 2024
 
-Total Time: 24 hrs 23 mins
+Total Time: 23 hrs 13 mins
 
-C#               18 hrs 6 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░   74.21 %
-SQL              3 hrs 40 mins   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-TypeScript       53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Text             42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-GitIgnore file   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+C#               15 hrs 17 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░   65.86 %
+SQL              5 hrs 2 mins    ▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░░   21.69 %
+TypeScript       53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Text             41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+JSON             29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
