@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2025 - To: 15 April 2025
+From: 09 April 2025 - To: 16 April 2025
 
-Total Time: 13 hrs 47 mins
+Total Time: 12 hrs 1 min
 
-C#              8 hrs 2 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░   58.32 %
-SQL             4 hrs 51 mins   ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   35.24 %
-JSON            32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Sqlproj         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Solution File   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+C#               6 hrs 55 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░   57.65 %
+SQL              4 hrs 19 mins   ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   36.01 %
+JSON             22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Sqlproj          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
