@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2025 - To: 08 July 2025
+From: 02 July 2025 - To: 09 July 2025
 
-Total Time: 8 hrs 25 mins
+Total Time: 5 hrs 34 mins
 
-SQL              6 hrs 2 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░   71.63 %
-C#               2 hrs 7 mins    ▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░   25.28 %
-XML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Text             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+SQL              4 hrs 10 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░   74.75 %
+C#               1 hr 12 mins    ▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░░   21.77 %
+XML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
