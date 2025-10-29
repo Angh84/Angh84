@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Total Time: 17 hrs 32 mins
+Total Time: 18 hrs 49 mins
 
-C#              10 hrs 5 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░   57.54 %
-SQL             5 hrs 52 mins   ▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░   33.53 %
-TypeScript      51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-JSON            18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Text            10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+C#               9 hrs 17 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░   49.42 %
+SQL              6 hrs 55 mins   ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   36.84 %
+TypeScript       51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+JSON             31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Text             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
