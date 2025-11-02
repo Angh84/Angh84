@@ -1,13 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2025 - To: 30 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
-Total Time: 15 hrs 30 mins
+Total Time: 15 hrs 49 mins
 
-C#               6 hrs 35 mins   ▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░   42.54 %
-SQL              5 hrs 34 mins   ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   35.91 %
-Other            1 hr 1 min      ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+SQL                   6 hrs           ▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░   37.95 %
+C#                    5 hrs 6 mins    ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   32.30 %
+Razor                 1 hr 13 mins    ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Other                 1 hr 1 min      ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 ```
 
 <!--END_SECTION:waka-->
