@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2025 - To: 09 November 2025
+From: 03 November 2025 - To: 10 November 2025
 
-Total Time: 24 mins
+Total Time: 5 hrs 47 mins
 
-C#             22 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░   89.87 %
-Blazor         2 mins          ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-SQL            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-HTTP Request   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C#              3 hrs 8 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░   54.08 %
+SQL             1 hr 59 mins    ▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░   34.32 %
+TypeScript      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+HTTP Request    13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JSON            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
