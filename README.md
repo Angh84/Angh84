@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 18 December 2025
+From: 12 December 2025 - To: 19 December 2025
 
-Total Time: 22 hrs 4 mins
+Total Time: 16 hrs 57 mins
 
-C#                  12 hrs 28 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   56.55 %
-SQL                 4 hrs 58 mins   ▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░░   22.54 %
-Razor               1 hr 46 mins    ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Blazor              41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Markdown            32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+C#                  8 hrs 8 mins    ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   47.94 %
+SQL                 5 hrs 6 mins    ▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░   30.13 %
+Razor               1 hr 37 mins    ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Blazor              45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+JSON                32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
