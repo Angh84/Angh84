@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2026 - To: 22 January 2026
+From: 16 January 2026 - To: 23 January 2026
 
-Total Time: 19 hrs 33 mins
+Total Time: 15 hrs 54 mins
 
-SQL              10 hrs 20 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   52.90 %
-C#               6 hrs 47 mins   ▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░   34.74 %
-Razor            47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-JSON             44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Sqlproj          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+SQL            9 hrs 31 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   59.85 %
+C#             4 hrs 56 mins   ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   31.08 %
+JSON           32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Sqlproj        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+TypeScript     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
