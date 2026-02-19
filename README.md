@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 17 February 2026
+From: 11 February 2026 - To: 18 February 2026
 
-Total Time: 11 hrs 23 mins
+Total Time: 9 hrs 35 mins
 
-C#             4 hrs 16 mins         ▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░   37.52 %
-SQL            4 hrs 4 mins          ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   35.80 %
-TypeScript     1 hr 33 mins          ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-JSON           22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-JavaScript     15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+SQL            4 hrs 51 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░   50.65 %
+TypeScript     1 hr 57 mins          ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   20.34 %
+C#             57 mins               ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Markdown       34 mins               ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Bash           17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
