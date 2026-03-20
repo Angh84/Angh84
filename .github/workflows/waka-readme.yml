@@ -16,7 +16,7 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           SHOW_TITLE: true
           BLOCKS: ░▒▓
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: false
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
