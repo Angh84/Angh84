@@ -31,15 +31,15 @@ Software developer based in Eslöv, Sweden. I build things with TypeScript, C#, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-Total Time: 35 hrs 16 mins
+Total Time: 36 hrs 8 mins
 
-Other                 13 hrs 54 mins        ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░   39.44 %
-Markdown              5 hrs 31 mins         ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   15.67 %
-SQL                   4 hrs 50 mins         ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-C#                    4 hrs 30 mins         ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.80 %
-Razor                 1 hr 36 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Other                 15 hrs 41 mins        ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░   43.43 %
+Markdown              5 hrs 4 mins          ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   14.05 %
+C#                    4 hrs 15 mins         ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+SQL                   4 hrs 11 mins         ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+JavaScript            1 hr 53 mins          ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
